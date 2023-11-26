@@ -356,7 +356,7 @@
     th {
       /* Adjust styles for mobile */
       
-      padding: 7.3px;
+      padding: 7px;
       font-size: 13px;
     }
   }
